@@ -1,4 +1,4 @@
-# OCTANET_JANUARY
+# Responsive landing page 
 A responsive landing page for a cake shop featuring a stunning showcase of cakes, easy online ordering, and seamless navigation across all devices.
 1.Name of the Cake Shop   -Sri's Frosted Delights
 
